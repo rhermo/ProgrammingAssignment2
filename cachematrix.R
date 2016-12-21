@@ -1,6 +1,12 @@
-## functions do
+#
+# File: cachematrix.R
+# Author: Raul Hermosa
+# Date: 21th Dec, 2016
+# Descrption: file implementing Practice Assigenment 2 Coursera Data Science
+#
 # creates an object to cache a matrix
 #       arg: x, matrix to inverse
+# functions
 #       set: it sets the matrix to inverse
 #       get: it returns the matrix to inverse
 #       setinverse: arg: inverse matrix, it sets the inverse matrix
